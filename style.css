@@ -87,4 +87,7 @@ h2 {
     font-weight: 400;
 }
 
-.
+.container__imagem-robo {
+    max-width: 100%; 
+    height: auto;
+}
