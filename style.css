@@ -41,8 +41,6 @@ body::before {
 }
 
 .container__conteudo {
-    width: 300px;
-    height: 200px;
     display: flex;
     align-items: center;
     position: absolute;
@@ -87,4 +85,9 @@ button {
 h2 {
     font-size: 32px;
     font-weight: 400;
+}
+
+img{
+     width: 300px;
+    height: 200px;
 }
